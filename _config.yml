@@ -6,7 +6,7 @@ author_github: hugocarreira
 description: |
   a simple theme for Jekyll using Materializecss
 baseurl: ""
-url: https://vtcuong95.github.io
+url: 
 paginate: 12
 github:
   user: vtcuong95
