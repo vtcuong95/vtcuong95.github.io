@@ -9,9 +9,9 @@ baseurl: ""
 url: https://vtcuong95.github.io
 paginate: 12
 github:
-  user: hugocarreira
-  repository: jekyll-materializecss
-  url: http://vtcuong95.github.io
+  user: vtcuong95
+  repository: vtcuong95.github.io
+  url: https://vtcuong95.github.io
   status: true
 home_bgfile: bg.jpg
 sass:
