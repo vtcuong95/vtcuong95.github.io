@@ -11,7 +11,7 @@ paginate: 12
 github:
   user: vtcuong95
   repository: vtcuong95.github.io
-  url: http://vtcuong95.github.io
+  url: https://vtcuong95.github.io
   status: true
 home_bgfile: bg.jpg
 sass:
